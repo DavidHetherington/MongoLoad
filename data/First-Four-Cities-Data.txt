@@ -1,0 +1,28 @@
+{
+    "City": "Anchorage",
+    "State": "Alaska",
+    "Population": 301306,
+    "Violent Crime": 864.6,
+    "Cost of Living": 128.4
+}
+{
+    "City": "Arlington",
+    "State": "Texas",
+    "Population": 382976,
+    "Violent Crime": 484.10,
+    "Cost of Living": 99.3
+}
+{
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Population": 454363,
+    "Violent Crime": 1227.4,
+    "Cost of Living": 95.6
+}
+{
+    "City": "Austin",
+    "State": "Texas",
+    "Population": 903924,
+    "Violent Crime": 396.2,
+    "Cost of Living": 95.5
+}
